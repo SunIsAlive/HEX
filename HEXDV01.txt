@@ -5,7 +5,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Grand Hexetic.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Grand Hexetic.png"
 	        }
 	    },
 	    {
@@ -14,7 +14,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Peak Performer.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Peak Performer.png"
 	        }
 	    },
 	    {
@@ -23,7 +23,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Practice Drills.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Practice Drills.png"
 	        }
 	    },
 	    {
@@ -32,7 +32,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Dearing Combatant.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Dearing Combatant.png"
 	        }
 	    },
 	    {
@@ -41,7 +41,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Soaring Striker.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Soaring Striker.png"
 	        }
 	    },
 	    {
@@ -50,7 +50,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Bindow Hunter.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Bindow Hunter.png"
 	        }
 	    },
 	    {
@@ -59,7 +59,7 @@
 	        "mana_cost": "{1}{W/B}{W/B}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Combat Medic.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Combat Medic.png"
 	        }
 	    },
 	    {
@@ -68,7 +68,7 @@
 	        "mana_cost": "{2}{W}{B}",
 	        "type": "Creature — Insect Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hiveheart Guard.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hiveheart Guard.png"
 	        }
 	    },
 	    {
@@ -77,7 +77,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Human Noble ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Tournament Favorite.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Tournament Favorite.png"
 	        }
 	    },
 	    {
@@ -86,7 +86,7 @@
 	        "mana_cost": "{4}{W}",
 	        "type": "Creature — Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hunter's Game.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hunter's Game.png"
 	        }
 	    },
 	    {
@@ -95,7 +95,7 @@
 	        "mana_cost": "{3}{W}{B}",
 	        "type": "Creature — Insect Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hiveheart Champion.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hiveheart Champion.png"
 	        }
 	    },
 	    {
@@ -104,7 +104,7 @@
 	        "mana_cost": "{4}{W/B}{W/B}",
 	        "type": "Creature — Insect Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Senaric Gifter.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Senaric Gifter.png"
 	        }
 	    },
 	    {
@@ -113,7 +113,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Competitor's Battleaxe.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Competitor's Battleaxe.png"
 	        }
 	    },
 	    {
@@ -122,7 +122,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Just Like We Practiced.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Just Like We Practiced.png"
 	        }
 	    },
 	    {
@@ -131,7 +131,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Shake the Arena.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Shake the Arena.png"
 	        }
 	    },
 	    {
@@ -140,7 +140,7 @@
 	        "mana_cost": "{W/B}{W/B}{W/B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Unmake.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Unmake.png"
 	        }
 	    },
 	    {
@@ -149,7 +149,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Triumphant Reward.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Triumphant Reward.png"
 	        }
 	    },
 	    {
@@ -158,7 +158,7 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Warrior's Bond.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Warrior's Bond.png"
 	        }
 	    },
 	    {
@@ -167,7 +167,7 @@
 	        "mana_cost": "{X}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Gift of Pardon.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Gift of Pardon.png"
 	        }
 	    },
 	    {
@@ -176,7 +176,7 @@
 	        "mana_cost": "{W}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Display of Power.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Display of Power.png"
 	        }
 	    },
 	    {
@@ -185,7 +185,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Merfolk Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Diving Contestant.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Diving Contestant.png"
 	        }
 	    },
 	    {
@@ -194,7 +194,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Creature — Faerie Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Fairy Duelist.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Fairy Duelist.png"
 	        }
 	    },
 	    {
@@ -203,7 +203,7 @@
 	        "mana_cost": "{U}{R}",
 	        "type": "Creature — Goblin Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hex-Event Host.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hex-Event Host.png"
 	        }
 	    },
 	    {
@@ -212,7 +212,7 @@
 	        "mana_cost": "{1}{U/R}{U/R}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hex Seeker.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hex Seeker.png"
 	        }
 	    },
 	    {
@@ -221,7 +221,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Elf Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Festive Jester.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Festive Jester.png"
 	        }
 	    },
 	    {
@@ -230,7 +230,7 @@
 	        "mana_cost": "{X}{G}{U}",
 	        "type": "Creature — Faerie Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hex Athlete.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hex Athlete.png"
 	        }
 	    },
 	    {
@@ -239,7 +239,7 @@
 	        "mana_cost": "{1}{G}{U}",
 	        "type": "Creature — Faerie Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Sih's Combatant.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Sih's Combatant.png"
 	        }
 	    },
 	    {
@@ -248,7 +248,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Ice Hockey Elemental.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Ice Hockey Elemental.png"
 	        }
 	    },
 	    {
@@ -257,7 +257,7 @@
 	        "mana_cost": "{3}{U}{R}",
 	        "type": "Creature — Dragon Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Dragon Brawler.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Dragon Brawler.png"
 	        }
 	    },
 	    {
@@ -266,7 +266,7 @@
 	        "mana_cost": "{4}{U/R}{U/R}",
 	        "type": "Creature — Spirit Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Determined Image.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Determined Image.png"
 	        }
 	    },
 	    {
@@ -275,7 +275,7 @@
 	        "mana_cost": "{4}{G/U}{G/U}",
 	        "type": "Creature — Dragon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hecfol Dragon.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hecfol Dragon.png"
 	        }
 	    },
 	    {
@@ -284,7 +284,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Consider.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Consider.png"
 	        }
 	    },
 	    {
@@ -293,7 +293,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Kick Off.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Kick Off.png"
 	        }
 	    },
 	    {
@@ -302,7 +302,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/At Odds Gate.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/At Odds Gate.png"
 	        }
 	    },
 	    {
@@ -311,7 +311,7 @@
 	        "mana_cost": "{X}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Gift of Knowledge.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Gift of Knowledge.png"
 	        }
 	    },
 	    {
@@ -320,7 +320,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Unbroken Resolve.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Unbroken Resolve.png"
 	        }
 	    },
 	    {
@@ -329,7 +329,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Suspicious Celebration.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Suspicious Celebration.png"
 	        }
 	    },
 	    {
@@ -338,7 +338,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Ward Off.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Ward Off.png"
 	        }
 	    },
 	    {
@@ -347,7 +347,7 @@
 	        "mana_cost": "{5}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Final Preperations.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Final Preperations.png"
 	        }
 	    },
 	    {
@@ -356,7 +356,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Acceptance.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Acceptance.png"
 	        }
 	    },
 	    {
@@ -365,7 +365,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Creature — Insect ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Cenari's Youngling.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Cenari's Youngling.png"
 	        }
 	    },
 	    {
@@ -374,7 +374,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Imp Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Undazzling Magician.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Undazzling Magician.png"
 	        }
 	    },
 	    {
@@ -383,7 +383,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Zombie Insect ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Al's Experiment.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Al's Experiment.png"
 	        }
 	    },
 	    {
@@ -392,7 +392,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Faerie Insect Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hiveheart Contestant.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hiveheart Contestant.png"
 	        }
 	    },
 	    {
@@ -401,7 +401,7 @@
 	        "mana_cost": "{1}{B}{G}",
 	        "type": "Creature — Insect Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hiveheart Challenger.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hiveheart Challenger.png"
 	        }
 	    },
 	    {
@@ -410,7 +410,7 @@
 	        "mana_cost": "{2}{B/G}{B/G}",
 	        "type": "Creature — Troll ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Training Partner.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Training Partner.png"
 	        }
 	    },
 	    {
@@ -419,7 +419,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Elf Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Sind's Rule Setter.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Sind's Rule Setter.png"
 	        }
 	    },
 	    {
@@ -428,7 +428,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Demon Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Ex-House Dealer.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Ex-House Dealer.png"
 	        }
 	    },
 	    {
@@ -437,7 +437,7 @@
 	        "mana_cost": "{3}{B}{G}",
 	        "type": "Creature — Insect Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Royal Hexurity.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Royal Hexurity.png"
 	        }
 	    },
 	    {
@@ -446,7 +446,7 @@
 	        "mana_cost": "{4}{B/G}{B/G}",
 	        "type": "Creature — Insect ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Cenari's Brood.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Cenari's Brood.png"
 	        }
 	    },
 	    {
@@ -455,7 +455,7 @@
 	        "mana_cost": "{X}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Gift of Infection.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Gift of Infection.png"
 	        }
 	    },
 	    {
@@ -464,7 +464,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Bitter History.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Bitter History.png"
 	        }
 	    },
 	    {
@@ -473,7 +473,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Concede.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Concede.png"
 	        }
 	    },
 	    {
@@ -482,7 +482,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Tarase's Influence.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Tarase's Influence.png"
 	        }
 	    },
 	    {
@@ -491,7 +491,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Crowd's Favorite.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Crowd's Favorite.png"
 	        }
 	    },
 	    {
@@ -500,7 +500,7 @@
 	        "mana_cost": "{B}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hexbound Duel.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hexbound Duel.png"
 	        }
 	    },
 	    {
@@ -509,7 +509,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Waste None.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Waste None.png"
 	        }
 	    },
 	    {
@@ -518,7 +518,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Match Fix.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Match Fix.png"
 	        }
 	    },
 	    {
@@ -527,7 +527,7 @@
 	        "mana_cost": "{2}{B/G}{B/G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Grim Salvage.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Grim Salvage.png"
 	        }
 	    },
 	    {
@@ -536,7 +536,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Rookie's Mentor.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Rookie's Mentor.png"
 	        }
 	    },
 	    {
@@ -545,7 +545,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Goblin Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Dribble Bomber.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Dribble Bomber.png"
 	        }
 	    },
 	    {
@@ -554,7 +554,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Child of Chance.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Child of Chance.png"
 	        }
 	    },
 	    {
@@ -563,7 +563,7 @@
 	        "mana_cost": "{R}{W}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Bidow Fighter.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Bidow Fighter.png"
 	        }
 	    },
 	    {
@@ -572,7 +572,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Doctor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Diabolical Doctor.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Diabolical Doctor.png"
 	        }
 	    },
 	    {
@@ -581,7 +581,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Insect Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Competitor's Steed.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Competitor's Steed.png"
 	        }
 	    },
 	    {
@@ -590,7 +590,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Goblin Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Petty Adversary.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Petty Adversary.png"
 	        }
 	    },
 	    {
@@ -599,7 +599,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hex Mage.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hex Mage.png"
 	        }
 	    },
 	    {
@@ -608,7 +608,7 @@
 	        "mana_cost": "{2}{R}{W}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Champion Ringleader.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Champion Ringleader.png"
 	        }
 	    },
 	    {
@@ -617,7 +617,7 @@
 	        "mana_cost": "{4}{R/W}{R/W}",
 	        "type": "Creature — Human Insect Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hiveheart Cavalry.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hiveheart Cavalry.png"
 	        }
 	    },
 	    {
@@ -626,7 +626,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Dragonborn Spear.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Dragonborn Spear.png"
 	        }
 	    },
 	    {
@@ -635,7 +635,7 @@
 	        "mana_cost": "{R/W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Coming to Aid.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Coming to Aid.png"
 	        }
 	    },
 	    {
@@ -644,7 +644,7 @@
 	        "mana_cost": "{X}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Gift of Favors.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Gift of Favors.png"
 	        }
 	    },
 	    {
@@ -653,7 +653,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Highroller's Blaze.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Highroller's Blaze.png"
 	        }
 	    },
 	    {
@@ -662,7 +662,7 @@
 	        "mana_cost": "{R}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Morgan's Teachings.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Morgan's Teachings.png"
 	        }
 	    },
 	    {
@@ -671,7 +671,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Round Three.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Round Three.png"
 	        }
 	    },
 	    {
@@ -680,7 +680,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Reality Shatter.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Reality Shatter.png"
 	        }
 	    },
 	    {
@@ -689,7 +689,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Personal Gain.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Personal Gain.png"
 	        }
 	    },
 	    {
@@ -698,7 +698,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Burning Desire.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Burning Desire.png"
 	        }
 	    },
 	    {
@@ -707,7 +707,7 @@
 	        "mana_cost": "{U/R}{U/R}{U/R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Experimental Research.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Experimental Research.png"
 	        }
 	    },
 	    {
@@ -716,7 +716,7 @@
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Champion's Strike.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Champion's Strike.png"
 	        }
 	    },
 	    {
@@ -725,7 +725,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Explorer of the Den.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Explorer of the Den.png"
 	        }
 	    },
 	    {
@@ -734,7 +734,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human Noble ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Lady's Favorite.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Lady's Favorite.png"
 	        }
 	    },
 	    {
@@ -743,7 +743,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Insect Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Challenger Mantis.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Challenger Mantis.png"
 	        }
 	    },
 	    {
@@ -752,7 +752,7 @@
 	        "mana_cost": "{G/U}{G/U}",
 	        "type": "Creature — Insect Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Wayfarer's Companion.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Wayfarer's Companion.png"
 	        }
 	    },
 	    {
@@ -761,7 +761,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Insect Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Cenari's Pulverizer.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Cenari's Pulverizer.png"
 	        }
 	    },
 	    {
@@ -770,7 +770,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Field Stitcher.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Field Stitcher.png"
 	        }
 	    },
 	    {
@@ -779,7 +779,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Thorn In Your Side.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Thorn In Your Side.png"
 	        }
 	    },
 	    {
@@ -788,7 +788,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Insect Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Retired General.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Retired General.png"
 	        }
 	    },
 	    {
@@ -797,7 +797,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Crawling Infestation.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Crawling Infestation.png"
 	        }
 	    },
 	    {
@@ -806,7 +806,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Api's Blessing.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Api's Blessing.png"
 	        }
 	    },
 	    {
@@ -815,7 +815,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Push Forward.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Push Forward.png"
 	        }
 	    },
 	    {
@@ -824,7 +824,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Experimental Results.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Experimental Results.png"
 	        }
 	    },
 	    {
@@ -833,7 +833,7 @@
 	        "mana_cost": "{X}{G/U}{G/U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Chance Awakening.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Chance Awakening.png"
 	        }
 	    },
 	    {
@@ -842,7 +842,7 @@
 	        "mana_cost": "{X}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Gift of Cycles.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Gift of Cycles.png"
 	        }
 	    },
 	    {
@@ -851,7 +851,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Flight of the Bumblebee.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Flight of the Bumblebee.png"
 	        }
 	    },
 	    {
@@ -860,7 +860,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Sticky Situation.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Sticky Situation.png"
 	        }
 	    },
 	    {
@@ -869,7 +869,7 @@
 	        "mana_cost": "{4}",
 	        "type": "Artifact Creature — Golem ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hexrena Golem.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hexrena Golem.png"
 	        }
 	    },
 	    {
@@ -878,7 +878,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Plains Swamp ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Sunlit Marsh.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Sunlit Marsh.png"
 	        }
 	    },
 	    {
@@ -887,7 +887,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Mountain Plains ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Sacred Peaks.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Sacred Peaks.png"
 	        }
 	    },
 	    {
@@ -896,7 +896,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Forest Island ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Tangled Islet.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Tangled Islet.png"
 	        }
 	    },
 	    {
@@ -905,7 +905,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Island Mountain ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Molten Tributary.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Molten Tributary.png"
 	        }
 	    },
 	    {
@@ -914,7 +914,7 @@
 	        "mana_cost": "",
 	        "type": "Land  — Swamp Forest ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Haunted Mire.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Haunted Mire.png"
 	        }
 	    },
 	    {
@@ -923,7 +923,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact — Trophy ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Ba's Reward.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Ba's Reward.png"
 	        }
 	    },
 	    {
@@ -932,7 +932,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact — Trophy ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Tarase's Reward.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Tarase's Reward.png"
 	        }
 	    },
 	    {
@@ -941,7 +941,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact — Trophy ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Sih's Reward.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Sih's Reward.png"
 	        }
 	    },
 	    {
@@ -950,7 +950,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact — Trophy ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Al's Reward.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Al's Reward.png"
 	        }
 	    },
 	    {
@@ -959,7 +959,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact — Trophy ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Cenari's Reward.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Cenari's Reward.png"
 	        }
 	    },
 	    {
@@ -968,7 +968,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact — Trophy ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Api's Reward.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Api's Reward.png"
 	        }
 	    },
 	    {
@@ -977,7 +977,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Shifting Arena.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Shifting Arena.png"
 	        }
 	    },
 	    {
@@ -986,7 +986,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact — Clue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Gift of Truth.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Gift of Truth.png"
 	        }
 	    },
 	    {
@@ -995,7 +995,7 @@
 	        "mana_cost": "{U}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Stack the Odds.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Stack the Odds.png"
 	        }
 	    },
 	    {
@@ -1004,7 +1004,7 @@
 	        "mana_cost": "{G}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Ceremonial Opening.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Ceremonial Opening.png"
 	        }
 	    },
 	    {
@@ -1013,13 +1013,11 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Demon Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Tarase's Disiciple.jpg"
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Tarase's Disiciple.png"
 	        }
 	    }
 	]
-	[RareSlot(1)]
-	[UncommonSlot(3)]
-	[CommonSlot(10)]
+	[CommonSlot(15)]
 		50 Grand Hexetic
 		50 Peak Performer
 		50 Practice Drills
@@ -1133,5 +1131,4 @@
 		50 Stack the Odds
 		50 Ceremonial Opening
 		50 Tarase's Disiciple
-	[BasicSlot(1)]
 	
