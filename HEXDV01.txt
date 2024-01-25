@@ -1,0 +1,1137 @@
+[CustomCards]
+	[    {
+	        "name": "Grand Hexetic",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Grand Hexetic.jpg"
+	        }
+	    },
+	    {
+	        "name": "Peak Performer",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Peak Performer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Practice Drills",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Practice Drills.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dearing Combatant",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Dearing Combatant.jpg"
+	        }
+	    },
+	    {
+	        "name": "Soaring Striker",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Soaring Striker.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bindow Hunter",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Bindow Hunter.jpg"
+	        }
+	    },
+	    {
+	        "name": "Combat Medic",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W/B}{W/B}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Combat Medic.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hiveheart Guard",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}{B}",
+	        "type": "Creature — Insect Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hiveheart Guard.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tournament Favorite",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Human Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Tournament Favorite.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hunter's Game",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hunter's Game.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hiveheart Champion",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}{B}",
+	        "type": "Creature — Insect Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hiveheart Champion.jpg"
+	        }
+	    },
+	    {
+	        "name": "Senaric Gifter",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W/B}{W/B}",
+	        "type": "Creature — Insect Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Senaric Gifter.jpg"
+	        }
+	    },
+	    {
+	        "name": "Competitor's Battleaxe",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Competitor's Battleaxe.jpg"
+	        }
+	    },
+	    {
+	        "name": "Just Like We Practiced",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Just Like We Practiced.jpg"
+	        }
+	    },
+	    {
+	        "name": "Shake the Arena",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Shake the Arena.jpg"
+	        }
+	    },
+	    {
+	        "name": "Unmake",
+	        "rarity": "common",
+	        "mana_cost": "{W/B}{W/B}{W/B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Unmake.jpg"
+	        }
+	    },
+	    {
+	        "name": "Triumphant Reward",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Triumphant Reward.jpg"
+	        }
+	    },
+	    {
+	        "name": "Warrior's Bond",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Warrior's Bond.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gift of Pardon",
+	        "rarity": "common",
+	        "mana_cost": "{X}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Gift of Pardon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Display of Power",
+	        "rarity": "common",
+	        "mana_cost": "{W}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Display of Power.jpg"
+	        }
+	    },
+	    {
+	        "name": "Diving Contestant",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Merfolk Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Diving Contestant.jpg"
+	        }
+	    },
+	    {
+	        "name": "Fairy Duelist",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Faerie Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Fairy Duelist.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hex-Event Host",
+	        "rarity": "common",
+	        "mana_cost": "{U}{R}",
+	        "type": "Creature — Goblin Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hex-Event Host.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hex Seeker",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U/R}{U/R}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hex Seeker.jpg"
+	        }
+	    },
+	    {
+	        "name": "Festive Jester",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Elf Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Festive Jester.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hex Athlete",
+	        "rarity": "common",
+	        "mana_cost": "{X}{G}{U}",
+	        "type": "Creature — Faerie Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hex Athlete.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sih's Combatant",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}{U}",
+	        "type": "Creature — Faerie Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Sih's Combatant.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ice Hockey Elemental",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Ice Hockey Elemental.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dragon Brawler",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}{R}",
+	        "type": "Creature — Dragon Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Dragon Brawler.jpg"
+	        }
+	    },
+	    {
+	        "name": "Determined Image",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U/R}{U/R}",
+	        "type": "Creature — Spirit Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Determined Image.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hecfol Dragon",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G/U}{G/U}",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hecfol Dragon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Consider",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Consider.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kick Off",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Kick Off.jpg"
+	        }
+	    },
+	    {
+	        "name": "At Odds Gate",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/At Odds Gate.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gift of Knowledge",
+	        "rarity": "common",
+	        "mana_cost": "{X}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Gift of Knowledge.jpg"
+	        }
+	    },
+	    {
+	        "name": "Unbroken Resolve",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Unbroken Resolve.jpg"
+	        }
+	    },
+	    {
+	        "name": "Suspicious Celebration",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Suspicious Celebration.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ward Off",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Ward Off.jpg"
+	        }
+	    },
+	    {
+	        "name": "Final Preperations",
+	        "rarity": "common",
+	        "mana_cost": "{5}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Final Preperations.jpg"
+	        }
+	    },
+	    {
+	        "name": "Acceptance",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Acceptance.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cenari's Youngling",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Insect ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Cenari's Youngling.jpg"
+	        }
+	    },
+	    {
+	        "name": "Undazzling Magician",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Imp Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Undazzling Magician.jpg"
+	        }
+	    },
+	    {
+	        "name": "Al's Experiment",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Zombie Insect ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Al's Experiment.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hiveheart Contestant",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Faerie Insect Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hiveheart Contestant.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hiveheart Challenger",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}{G}",
+	        "type": "Creature — Insect Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hiveheart Challenger.jpg"
+	        }
+	    },
+	    {
+	        "name": "Training Partner",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B/G}{B/G}",
+	        "type": "Creature — Troll ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Training Partner.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sind's Rule Setter",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Elf Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Sind's Rule Setter.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ex-House Dealer",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Demon Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Ex-House Dealer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Royal Hexurity",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}{G}",
+	        "type": "Creature — Insect Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Royal Hexurity.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cenari's Brood",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B/G}{B/G}",
+	        "type": "Creature — Insect ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Cenari's Brood.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gift of Infection",
+	        "rarity": "common",
+	        "mana_cost": "{X}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Gift of Infection.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bitter History",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Bitter History.jpg"
+	        }
+	    },
+	    {
+	        "name": "Concede",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Concede.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tarase's Influence",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Tarase's Influence.jpg"
+	        }
+	    },
+	    {
+	        "name": "Crowd's Favorite",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Crowd's Favorite.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hexbound Duel",
+	        "rarity": "common",
+	        "mana_cost": "{B}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hexbound Duel.jpg"
+	        }
+	    },
+	    {
+	        "name": "Waste None",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Waste None.jpg"
+	        }
+	    },
+	    {
+	        "name": "Match Fix",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Match Fix.jpg"
+	        }
+	    },
+	    {
+	        "name": "Grim Salvage",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B/G}{B/G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Grim Salvage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Rookie's Mentor",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Rookie's Mentor.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dribble Bomber",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Goblin Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Dribble Bomber.jpg"
+	        }
+	    },
+	    {
+	        "name": "Child of Chance",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Child of Chance.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bidow Fighter",
+	        "rarity": "common",
+	        "mana_cost": "{R}{W}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Bidow Fighter.jpg"
+	        }
+	    },
+	    {
+	        "name": "Diabolical Doctor",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Doctor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Diabolical Doctor.jpg"
+	        }
+	    },
+	    {
+	        "name": "Competitor's Steed",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Insect Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Competitor's Steed.jpg"
+	        }
+	    },
+	    {
+	        "name": "Petty Adversary",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Goblin Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Petty Adversary.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hex Mage",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hex Mage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Champion Ringleader",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}{W}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Champion Ringleader.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hiveheart Cavalry",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R/W}{R/W}",
+	        "type": "Creature — Human Insect Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hiveheart Cavalry.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dragonborn Spear",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Dragonborn Spear.jpg"
+	        }
+	    },
+	    {
+	        "name": "Coming to Aid",
+	        "rarity": "common",
+	        "mana_cost": "{R/W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Coming to Aid.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gift of Favors",
+	        "rarity": "common",
+	        "mana_cost": "{X}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Gift of Favors.jpg"
+	        }
+	    },
+	    {
+	        "name": "Highroller's Blaze",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Highroller's Blaze.jpg"
+	        }
+	    },
+	    {
+	        "name": "Morgan's Teachings",
+	        "rarity": "common",
+	        "mana_cost": "{R}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Morgan's Teachings.jpg"
+	        }
+	    },
+	    {
+	        "name": "Round Three",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Round Three.jpg"
+	        }
+	    },
+	    {
+	        "name": "Reality Shatter",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Reality Shatter.jpg"
+	        }
+	    },
+	    {
+	        "name": "Personal Gain",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Personal Gain.jpg"
+	        }
+	    },
+	    {
+	        "name": "Burning Desire",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Burning Desire.jpg"
+	        }
+	    },
+	    {
+	        "name": "Experimental Research",
+	        "rarity": "common",
+	        "mana_cost": "{U/R}{U/R}{U/R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Experimental Research.jpg"
+	        }
+	    },
+	    {
+	        "name": "Champion's Strike",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Champion's Strike.jpg"
+	        }
+	    },
+	    {
+	        "name": "Explorer of the Den",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Explorer of the Den.jpg"
+	        }
+	    },
+	    {
+	        "name": "Lady's Favorite",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Lady's Favorite.jpg"
+	        }
+	    },
+	    {
+	        "name": "Challenger Mantis",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Insect Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Challenger Mantis.jpg"
+	        }
+	    },
+	    {
+	        "name": "Wayfarer's Companion",
+	        "rarity": "common",
+	        "mana_cost": "{G/U}{G/U}",
+	        "type": "Creature — Insect Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Wayfarer's Companion.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cenari's Pulverizer",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Insect Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Cenari's Pulverizer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Field Stitcher",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Field Stitcher.jpg"
+	        }
+	    },
+	    {
+	        "name": "Thorn In Your Side",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Thorn In Your Side.jpg"
+	        }
+	    },
+	    {
+	        "name": "Retired General",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Insect Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Retired General.jpg"
+	        }
+	    },
+	    {
+	        "name": "Crawling Infestation",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Crawling Infestation.jpg"
+	        }
+	    },
+	    {
+	        "name": "Api's Blessing",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Api's Blessing.jpg"
+	        }
+	    },
+	    {
+	        "name": "Push Forward",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Push Forward.jpg"
+	        }
+	    },
+	    {
+	        "name": "Experimental Results",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Experimental Results.jpg"
+	        }
+	    },
+	    {
+	        "name": "Chance Awakening",
+	        "rarity": "common",
+	        "mana_cost": "{X}{G/U}{G/U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Chance Awakening.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gift of Cycles",
+	        "rarity": "common",
+	        "mana_cost": "{X}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Gift of Cycles.jpg"
+	        }
+	    },
+	    {
+	        "name": "Flight of the Bumblebee",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Flight of the Bumblebee.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sticky Situation",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Sticky Situation.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hexrena Golem",
+	        "rarity": "common",
+	        "mana_cost": "{4}",
+	        "type": "Artifact Creature — Golem ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Hexrena Golem.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sunlit Marsh",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Plains Swamp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Sunlit Marsh.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sacred Peaks",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Mountain Plains ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Sacred Peaks.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tangled Islet",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Forest Island ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Tangled Islet.jpg"
+	        }
+	    },
+	    {
+	        "name": "Molten Tributary",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Island Mountain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Molten Tributary.jpg"
+	        }
+	    },
+	    {
+	        "name": "Haunted Mire",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land  — Swamp Forest ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Haunted Mire.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ba's Reward",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Artifact — Trophy ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Ba's Reward.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tarase's Reward",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Artifact — Trophy ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Tarase's Reward.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sih's Reward",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Artifact — Trophy ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Sih's Reward.jpg"
+	        }
+	    },
+	    {
+	        "name": "Al's Reward",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Artifact — Trophy ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Al's Reward.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cenari's Reward",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Artifact — Trophy ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Cenari's Reward.jpg"
+	        }
+	    },
+	    {
+	        "name": "Api's Reward",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Artifact — Trophy ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Api's Reward.jpg"
+	        }
+	    },
+	    {
+	        "name": "Shifting Arena",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Shifting Arena.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gift of Truth",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact — Clue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Gift of Truth.jpg"
+	        }
+	    },
+	    {
+	        "name": "Stack the Odds",
+	        "rarity": "common",
+	        "mana_cost": "{U}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Stack the Odds.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ceremonial Opening",
+	        "rarity": "common",
+	        "mana_cost": "{G}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Ceremonial Opening.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tarase's Disiciple",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Demon Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SunIsAlive/HEX/main/HEXCV01-files/Tarase's Disiciple.jpg"
+	        }
+	    }
+	]
+	[RareSlot(1)]
+	[UncommonSlot(3)]
+	[CommonSlot(10)]
+		50 Grand Hexetic
+		50 Peak Performer
+		50 Practice Drills
+		50 Dearing Combatant
+		50 Soaring Striker
+		50 Bindow Hunter
+		50 Combat Medic
+		50 Hiveheart Guard
+		50 Tournament Favorite
+		50 Hunter's Game
+		50 Hiveheart Champion
+		50 Senaric Gifter
+		50 Competitor's Battleaxe
+		50 Just Like We Practiced
+		50 Shake the Arena
+		50 Unmake
+		50 Triumphant Reward
+		50 Warrior's Bond
+		50 Gift of Pardon
+		50 Display of Power
+		50 Diving Contestant
+		50 Fairy Duelist
+		50 Hex-Event Host
+		50 Hex Seeker
+		50 Festive Jester
+		50 Hex Athlete
+		50 Sih's Combatant
+		50 Ice Hockey Elemental
+		50 Dragon Brawler
+		50 Determined Image
+		50 Hecfol Dragon
+		50 Consider
+		50 Kick Off
+		50 At Odds Gate
+		50 Gift of Knowledge
+		50 Unbroken Resolve
+		50 Suspicious Celebration
+		50 Ward Off
+		50 Final Preperations
+		50 Acceptance
+		50 Cenari's Youngling
+		50 Undazzling Magician
+		50 Al's Experiment
+		50 Hiveheart Contestant
+		50 Hiveheart Challenger
+		50 Training Partner
+		50 Sind's Rule Setter
+		50 Ex-House Dealer
+		50 Royal Hexurity
+		50 Cenari's Brood
+		50 Gift of Infection
+		50 Bitter History
+		50 Concede
+		50 Tarase's Influence
+		50 Crowd's Favorite
+		50 Hexbound Duel
+		50 Waste None
+		50 Match Fix
+		50 Grim Salvage
+		50 Rookie's Mentor
+		50 Dribble Bomber
+		50 Child of Chance
+		50 Bidow Fighter
+		50 Diabolical Doctor
+		50 Competitor's Steed
+		50 Petty Adversary
+		50 Hex Mage
+		50 Champion Ringleader
+		50 Hiveheart Cavalry
+		50 Dragonborn Spear
+		50 Coming to Aid
+		50 Gift of Favors
+		50 Highroller's Blaze
+		50 Morgan's Teachings
+		50 Round Three
+		50 Reality Shatter
+		50 Personal Gain
+		50 Burning Desire
+		50 Experimental Research
+		50 Champion's Strike
+		50 Explorer of the Den
+		50 Lady's Favorite
+		50 Challenger Mantis
+		50 Wayfarer's Companion
+		50 Cenari's Pulverizer
+		50 Field Stitcher
+		50 Thorn In Your Side
+		50 Retired General
+		50 Crawling Infestation
+		50 Api's Blessing
+		50 Push Forward
+		50 Experimental Results
+		50 Chance Awakening
+		50 Gift of Cycles
+		50 Flight of the Bumblebee
+		50 Sticky Situation
+		50 Hexrena Golem
+		50 Sunlit Marsh
+		50 Sacred Peaks
+		50 Tangled Islet
+		50 Molten Tributary
+		50 Haunted Mire
+		50 Ba's Reward
+		50 Tarase's Reward
+		50 Sih's Reward
+		50 Al's Reward
+		50 Cenari's Reward
+		50 Api's Reward
+		50 Shifting Arena
+		50 Gift of Truth
+		50 Stack the Odds
+		50 Ceremonial Opening
+		50 Tarase's Disiciple
+	[BasicSlot(1)]
+	

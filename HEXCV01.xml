@@ -1,0 +1,1734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>HEX</name>
+      <longname></longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Grand Hexetic</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Protection from Gods
+4WW: Put a +1/+1 counter on each other creature you control.</text>
+    </card>
+    <card>
+      <name>Peak Performer</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Compete (At the beginning of each end step, you get a score counter for each opponent you attacked this turn. Spend six score counters as a sorcery to create Trophy tokens.)
+Peak Performer gets +1/+0 as long as you have three or more score counters or control a Trophy.</text>
+    </card>
+    <card>
+      <name>Practice Drills</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Compete (At the beginning of each end step, you get a score counter for each opponent you attacked this turn. Spend six score counters as a sorcery to create Trophy tokens.)
+Whenever Practice Drills enters the battlefield, create two 1/1 white Warrior creature tokens.</text>
+    </card>
+    <card>
+      <name>Dearing Combatant</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+{1}, Sacrifice Dearing Combatant: Target artifact or enchantment gains indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>Soaring Striker</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+Compete (At the beginning of each end step, you get a score counter for each opponent you attacked this turn. Spend six score counters as a sorcery to create Trophy tokens.)</text>
+    </card>
+    <card>
+      <name>Bindow Hunter</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Compete (At the beginning of each end step, you get a score counter for each opponent you attacked this turn. Spend six score counters as a sorcery to create Trophy tokens.)
+{B}: Bindow Hunter gets +1/-1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Combat Medic</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1W/BW/B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Field Medic enters the battlefield, you may return target creature card not named Combat Medic with mana value 3 or less from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Hiveheart Guard</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>2WB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Insect Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another creature you control dies, you may put your choice of a flying or lifelink counter on Hiveheart Guard. If you don’t, Hiveheart Guard gets +1/+1 until end of turn.
+{1}, Sacrifice another creature: Scry 1.</text>
+    </card>
+    <card>
+      <name>Tournament Favorite</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Tournament Favorite enters the battlefield, create two 1/1 white Warrior creature tokens.
+Warriors you control have vigilance.</text>
+    </card>
+    <card>
+      <name>Hunter&apos;s Game</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+This creature costs {1} less to cast for each creature that attacked this turn.
+When Hunter’s Game dies, put a +1/+1 counter on target creature you control and you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Hiveheart Champion</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>3WB</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Insect Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Senaric Gifter</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>4W/BW/B</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Insect Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Senaric Gifter enters the battlefield, return target creature card with mana value 3 or less from your graveyard to the battlefield.
+Plainscycling {2}, swampcycling {2} ({2}, Discard this card: Search your library for a Plains or Swamp card, reveal it, and put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Competitor&apos;s Battleaxe</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Compete (At the beginning of each end step, you get a score counter for each opponent you attacked this turn. Spend six score counters as a sorcery to create Trophy tokens.)
+Equipped creature gets +1/+1 and has vigilance.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Just Like We Practiced</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+When Just Like We Practiced enters the battlefield, until end of turn, target creature gains “When this creature dies, return it to its owner’s hand.”
+Sacrifice Just Like We Practiced: Put a +1/+1 counter on target creature that entered the battlefield this turn.</text>
+    </card>
+    <card>
+      <name>Shake the Arena</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Shake the Arena deals 3 damage to target tapped creature.
+• Tap up to two target creatures.</text>
+    </card>
+    <card>
+      <name>Unmake</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>W/BW/BW/B</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature.</text>
+    </card>
+    <card>
+      <name>Triumphant Reward</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target artifact or creature card with mana value 3 or less from your graveyard to the battlefield. Proliferate. (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>Warrior&apos;s Bond</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create three white 1/1 white Warrior creature tokens, then roll a d6.
+1-2 | Put a vigilance counter on up to three target Warrior creatures you control.
+3-4 | Put a lifelink counter on up to three target Warrior creatures you control.
+5-6 | Put a first strike counter on up to three target Warrior creatures you control.</text>
+    </card>
+    <card>
+      <name>Gift of Pardon</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>XW</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Destroy target nonland permanent with mana value X or less. Its controller gain X life.
+• You gain X life.</text>
+    </card>
+    <card>
+      <name>Display of Power</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>WB</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one or both —
+• Target creature gets +2/+2 until end of turn.
+• Target creature gets -2/-2 until end of turn.</text>
+    </card>
+    <card>
+      <name>Diving Contestant</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Merfolk Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1U: Diving Contestant can’t be blocked this turn.
+1U: Whenever Diving Contestant deals combat damage to an opponent, draw a card.</text>
+    </card>
+    <card>
+      <name>Fairy Duelist</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Faerie Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying
+When Fairy Duelist enters the battlefield, target creature an opponent controls gets -2/-0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Hex-Event Host</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Goblin Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you roll one or more dice, create a tapped Treasure token.
+1UR: Target creature gets +2/+0 until end of turn. Activate only once each turn.</text>
+    </card>
+    <card>
+      <name>Hex Seeker</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1U/RU/R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Roll a d6.
+1-3 | You may discard a card, if you do, draw a card.
+4-5 | Draw a card, then discard a card.
+6 | Exile the top card of your library, you may play it until the end of your next turn.</text>
+    </card>
+    <card>
+      <name>Festive Jester</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elf Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Festive Jester enters the battlefield, roll a d6. You may return target noncreature, nonland card with mana value X or less from your graveyard to your hand, where X is the result. If you don’t, draw a card.</text>
+    </card>
+    <card>
+      <name>Hex Athlete</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>XGU</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Faerie Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Hex Athlete enters the battlefield, put a +1/+1 counter on up to X other target creatures.</text>
+    </card>
+    <card>
+      <name>Sih&apos;s Combatant</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Faerie Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you cast a spell with mana value 6 or greater, put two +1/+1 counters on Sih’s Combatant.</text>
+    </card>
+    <card>
+      <name>Ice Hockey Elemental</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Compete (At the beginning of each end step, you get a score counter for each opponent you attacked this turn. Spend six score counters as a sorcery to create Trophy tokens.)
+When Ice Hockey Elemental enters the battlefield, tap target creature an opponent controls. You may pay 1U, if you do, put a stun counter on it.</text>
+    </card>
+    <card>
+      <name>Dragon Brawler</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>3UR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Dragon Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever you cast your second spell each turn, roll a d6. Dragon Brawler gets +X/+X until end of turn, where X is the result.</text>
+    </card>
+    <card>
+      <name>Determined Image</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>4U/RU/R</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Spirit Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Determined Image enters the battlefield, you may return target instant or sorcery card from your graveyard to your hand.
+Islandcycling {2}, mountaincycling {2} ({2}, Discard this card: Search your library for an Island or Mountain card, reveal it, and put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Hecfol Dragon</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>4G/UG/U</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender, flying
+Hecfol Dragon can attack as though it didn’t have defender as long as there are six or more cards in your graveyard.
+Forestcycling {2}, islandcycling {2} ({2}, Discard this card: Search your library for an Forest or Island card, reveal it, and put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Consider</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Kick Off</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Compete (At the beginning of each end step, you get a score counter for each opponent you attacked this turn. Spend six score counters as a sorcery to create Trophy tokens.)
+When Kick Off enters the battlefield, return target creature to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>At Odds Gate</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If you would roll one or more dice, instead roll that many dice plus one and ignore one of those results.
+Whenever At Odds Gate enters the battlefield or you roll one or more die, you may draw a card. If you do, discard a card.</text>
+    </card>
+    <card>
+      <name>Gift of Knowledge</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>XU</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Counter target spell unless its controller pays {X}. 
+• Return target nonland permanent to its owner’s hand with mana value X or less.</text>
+    </card>
+    <card>
+      <name>Unbroken Resolve</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Compete (At the beginning of each end step, you get a score counter for each opponent you attacked this turn. Spend six score counters as a sorcery to create Trophy tokens.)
+Whenever enchanted creature deals combat damage to an opponent, draw a card.</text>
+    </card>
+    <card>
+      <name>Suspicious Celebration</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Roll a d6. Creatures your opponents control get -X/-0 until end of turn, where X is the result.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Ward Off</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Ward Off costs {1} less to cast if you control a permanent with highest mana value among permanents on the battlefield.
+Counter target spell.</text>
+    </card>
+    <card>
+      <name>Final Preperations</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5U</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose two — 
+• Draw four cards, then discard two cards.
+• Return up to two target creatures to their owners’ hands.</text>
+    </card>
+    <card>
+      <name>Acceptance</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put target nonland permanent on top of its owner’s library.
+Proliferate. (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>Cenari&apos;s Youngling</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+2B, Exile Cenari’s Youngling from your graveyard: Put a +1/+1 counter on target creature. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Undazzling Magician</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Imp Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Undazzling Magician enters the battlefield or dies, mill three cards.</text>
+    </card>
+    <card>
+      <name>Al&apos;s Experiment</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Zombie Insect </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Al’s Experiment can’t block.
+1B: Roll a d6. If you roll a six, return Al’s Experiment from your graveyard to the battlefield. Otherwise return Al’s Experiment from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Hiveheart Contestant</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Faerie Insect Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Compete (At the beginning of each end step, you get a score counter for each opponent you attacked this turn. Spend six score counters as a sorcery to create Trophy tokens.)
+3G: Hiveheart Contestant gets +1/+1 until end of turn. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Hiveheart Challenger</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1BG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Insect Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Hiveheart Challenger enters the battlefield, another target creature gets +1/+1 until end of turn. If it’s an Insect put a +1/+1 counter on it instead.</text>
+    </card>
+    <card>
+      <name>Training Partner</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>2B/GB/G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Troll </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+3BG: Put a +1/+1 counter on another target creature you control.</text>
+    </card>
+    <card>
+      <name>Sind&apos;s Rule Setter</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elf Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+1B, Sacrifice a creature: Put a +1/+1 counter on Sind’s Rule Setter.</text>
+    </card>
+    <card>
+      <name>Ex-House Dealer</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Demon Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Ex-House Dealer or another creature dies, roll a d6.
+1 | Each player loses 1 life.
+2-4 | Each opponent loses 1 life.
+5-6 | Each opponent loses 1 life and you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Royal Hexurity</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>3BG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Insect Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Royal Hexurity enters the battlefield with a +1/+1 counter on it for each other Insect you control.</text>
+    </card>
+    <card>
+      <name>Cenari&apos;s Brood</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>4B/GB/G</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Cenari’s Brood enters the battlefield, you gain 1 life for each creature card in your graveyard.
+Swampcycling {2}, forestcycling {2} ({2}, Discard this card: Search your library for a Swamp or Forest card, reveal it, and put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Gift of Infection </name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>XB</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Target creature gets -X/-X until end of turn.
+• Return target creature card with mana value X or less from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>Bitter History</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets -2/-2 until end of turn. If a creature you control died this turn, that creature gets -4/-4 until end of turn.</text>
+    </card>
+    <card>
+      <name>Concede</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each opponent discards a card and loses 2 life.
+Flashback 2BB (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Tarase&apos;s Influence</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one or more. You lose 1 life for each mode you choose beyond the first—
+• Proliferate.
+• Exile target player’s graveyard.
+• Create a 1/1 black Zombie Insect creature token with flying.</text>
+    </card>
+    <card>
+      <name>Crowd&apos;s Favorite</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Compete (At the beginning of each end step, you get a score counter for each opponent you attacked this turn. Spend six score counters as a sorcery to create Trophy tokens.)
+When Crowd’s Favorite enters the battlefield, if it was cast, each opponent discards two cards.</text>
+    </card>
+    <card>
+      <name>Hexbound Duel</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>BG</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gains deathtouch until end of turn. That creature fights up to one target creature you don’t control. </text>
+    </card>
+    <card>
+      <name>Waste None</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Whenever any number of target creatures die this turn, their controller creates a 1/1 black Zombie Insect creature token with flying.</text>
+    </card>
+    <card>
+      <name>Match Fix</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature you control
+Enchanted creature gets +2/-2.
+Whenever enchanted creature dies, return target creature card from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>Grim Salvage</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>2B/GB/G</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Mill the top five cards of your library. When you do, you may return up to two target creature or land cards from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Rookie&apos;s Mentor</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Compete (At the beginning of each end step, you get a score counter for each opponent you attacked this turn. Spend six score counters as a sorcery to create Trophy tokens.)
+{T}: Target creature gains haste until end of turn. </text>
+    </card>
+    <card>
+      <name>Dribble Bomber</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Goblin Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Compete (At the beginning of each end step, you get a score counter for each opponent you attacked this turn. Spend six score counters as a sorcery to create Trophy tokens.)
+Whenever Dribble Bomber or another creature enters the battlefield under you control, target creature can’t block this turn.</text>
+    </card>
+    <card>
+      <name>Child of Chance</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess
+Whenever you roll one or more dice, put a +1/+1 counter on Child of Chance.</text>
+    </card>
+    <card>
+      <name>Bidow Fighter</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RW</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Bidow Fighter attacks, each other creature you control get +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Diabolical Doctor</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Doctor </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Compete (At the beginning of each end step, you get a score counter for each opponent you attacked this turn. Spend six score counters as a sorcery to create Trophy tokens.)
+Whenever Diabolical Doctor attacks, roll a d6. Diabolical Doctor gets +X/+0 until end of turn, where X half of the result, rounded up.</text>
+    </card>
+    <card>
+      <name>Competitor&apos;s Steed</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Insect Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Competitor’s Steed enters the battlefield, create a 1/1 white Warrior creature token.
+1W: Target creature gains flying until end of turn.</text>
+    </card>
+    <card>
+      <name>Petty Adversary</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Goblin Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When Petty Adversary enters the battlefield, you may destroy target artifact. If you controlled it, Petty Adversary gets +2/+0 and gains haste until end of turn.</text>
+    </card>
+    <card>
+      <name>Hex Mage</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you roll one or more dice, untap Hex Mage.
+{R}, {T}: Hex Mage deals 2 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>Champion Ringleader</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>2RW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Compete (At the beginning of each end step, you get a score counter for each opponent you attacked this turn. Spend six score counters as a sorcery to create Trophy tokens.)
+When Champion Ringleader enters the battlefield, it deals X damage to any target and you gain X life, where X is the number of Warriors you control.</text>
+    </card>
+    <card>
+      <name>Hiveheart Cavalry</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>4R/WR/W</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Human Insect Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, first strike
+Mountaincycling {2}, plainscycling {2} ({2}, Discard this card: Search your library for a Mountain or Plains card, reveal it, and put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Dragonborn Spear</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Compete (At the beginning of each end step, you get a score counter for each opponent you attacked this turn. Spend six score counters as a sorcery to create Trophy tokens.)
+Equipped creature gets +2/+0.
+Equip {R} ({R}: Attach to target creature you control. Equip only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Coming to Aid</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>R/W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +1/+0 until end of turn. When that creature dies this turn, create two 1/1 Warrior creature tokens.</text>
+    </card>
+    <card>
+      <name>Gift of Favors</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>XR</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Target creature gets +X/+0 and trample until end of turn.
+• Gift of Favors deals X damage to target creature or planeswalker.</text>
+    </card>
+    <card>
+      <name>Highroller&apos;s Blaze</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Roll two d6. When you do, Highroller’s Blaze deals damage to any target for each time you’ve rolled a dice this turn. If both the results were six, it deals twice that much damage instead.</text>
+    </card>
+    <card>
+      <name>Morgan&apos;s Teachings</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RW</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile the top two cards of your library. Until the end of your next turn, you may play those cards. You gain 2 life.</text>
+    </card>
+    <card>
+      <name>Round Three</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Roll three d6. For each different result, create a 1/1 white Warrior creature token.</text>
+    </card>
+    <card>
+      <name>Reality Shatter</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Roll two d6. Target creature gets +X/+Y until end of turn, where X is the higher result and Y is the lower result.
+• Destroy target artifact.</text>
+    </card>
+    <card>
+      <name>Personal Gain</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Compete (At the beginning of each end step, you get a score counter for each opponent you attacked this turn. Spend six score counters as a sorcery to create Trophy tokens.)
+When Personal Gain enters the battlefield, gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.</text>
+    </card>
+    <card>
+      <name>Burning Desire</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Compete (At the beginning of each end step, you get a score counter for each opponent you attacked this turn. Spend six score counters as a sorcery to create Trophy tokens.)
+Enchanted creature gets +X/+0 where X is the highest result you’ve rolled this turn.
+2R: Roll a d6. Enchanted creature gains trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Experimental Research</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>U/RU/RU/R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw three cards, then discard three cards. For each instant or sorcery card discarded this way, roll a d6. Return each instant or sorcery card to your hand which rolled a result greater or equal to its mana value.</text>
+    </card>
+    <card>
+      <name>Champion&apos;s Strike</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Champion’s Strike deals 5 damage to target creature or planeswalker.
+Proliferate (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>Explorer of the Den</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+When Explorer of the Den dies, return target Insect card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Lady&apos;s Favorite</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Lady’s Favorite enters the battlefield, choose a color other than green.
+{T}: Add {G} or one mana of the chosen color.</text>
+    </card>
+    <card>
+      <name>Challenger Mantis</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Insect Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Compete (At the beginning of each end step, you get a score counter for each opponent you attacked this turn. Spend six score counters as a sorcery to create Trophy tokens.)
+3U: Challenger Mantis gains flying until end of turn. Untap Challenger Mantis.</text>
+    </card>
+    <card>
+      <name>Wayfarer&apos;s Companion</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>G/UG/U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Insect Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender, flying
+{T}: You may put a land card from your hand onto the battlefield.
+2GU: Creatures you control may attack as though they didn’t have defender until end of turn.</text>
+    </card>
+    <card>
+      <name>Cenari&apos;s Pulverizer</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Insect Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Cenari’s Pulverizer enters the battlefield, look at the top four cards of your library. You may reveal a card with mana value 6 or greater from among them and put it into your hand, then put the rest into your graveyard.</text>
+    </card>
+    <card>
+      <name>Field Stitcher</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Field Stitcher enters the battlefield, choose one —
+• You gain 2 life.
+• Put a +1/+1 counter on another target creature you control.
+• Proliferate.</text>
+    </card>
+    <card>
+      <name>Thorn In Your Side</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter on target creature. It gains reach and hexproof until end of turn.</text>
+    </card>
+    <card>
+      <name>Retired General</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Insect Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Retired General enters the battlefield, choose two. You may choose the same mode more than once.
+• Retired General enters with a +1/+1 counter on it.
+• Create a 1/1 green Insect creature token.</text>
+    </card>
+    <card>
+      <name>Crawling Infestation</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, you may mill two cards.
+Whenever one or more creature cards are put into your graveyard from anywhere during your turn, create a 1/1 green Insect creature token. This ability triggers only once each turn.</text>
+    </card>
+    <card>
+      <name>Api&apos;s Blessing</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at the top five cards of your library. You may reveal a multicolored or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>Push Forward</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Compete (At the beginning of each end step, you get a score counter for each opponent you attacked this turn. Spend six score counters as a sorcery to create Trophy tokens.)
+Enchanted creature gets +3/+3 and has trample.
+As long as you control a Trophy, you may cast Push Forward from your graveyard.</text>
+    </card>
+    <card>
+      <name>Experimental Results</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Compete (At the beginning of each end step, you get a score counter for each opponent you attacked this turn. Spend six score counters as a sorcery to create Trophy tokens.)
+When Experimental Results enters the battlefield, search your library for a basic land card and put it onto the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Chance Awakening</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>XG/UG/U</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a 0/0 green and blue Elemental creature token and roll X d6. Then choose one —
+• Put X +1/+1 counters on that creature.
+• Put a number of +1/+1 counters on it equal to the highest result.</text>
+    </card>
+    <card>
+      <name>Gift of Cycles</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>XG</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Put a +1/+1 counter on up to X target creatures.
+• Exile target artifact or enchantment with mana value X or less.</text>
+    </card>
+    <card>
+      <name>Flight of the Bumblebee</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Prevent all damage that would be dealt this turn.
+• Draw a card.
+If you control an Insect, you may choose both instead.</text>
+    </card>
+    <card>
+      <name>Sticky Situation</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Destroy target creature with flying.
+• Target creature you control gets +6/+6 until end of turn.</text>
+    </card>
+    <card>
+      <name>Hexrena Golem</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Golem </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Hexrena Golem is all colors.
+Vigilance
+Put a +1/+1 counter on Hexrena Golem for each differently colored mana spent to cast it.</text>
+    </card>
+    <card>
+      <name>Sunlit Marsh</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Plains Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {W} or {B}.)
+Sunlit Marsh enters the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Sacred Peaks</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Mountain Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {R} or {W}.)
+Sacred Peaks enters the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Tangled Islet</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Forest Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {G} or {U}.)
+Tangled Islet enters the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Molten Tributary</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Island Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {U} or {R}.)
+Molten Tributary enters the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Haunted Mire</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land  - Swamp Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {B} or {G}.)
+Haunted Mire enters the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Ba&apos;s Reward</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Trophy </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {R} or {W}.
+4RW, {T}, Sacrifice Ba’s Reward: Draw three cards.</text>
+    </card>
+    <card>
+      <name>Tarase&apos;s Reward</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Trophy </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {W} or {B}.
+4WB, {T}, Sacrifice Tarase’s Reward: Draw three cards.</text>
+    </card>
+    <card>
+      <name>Sih&apos;s Reward</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Trophy </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {G} or {U}.
+4GU, {T}, Sacrifice Sih’s Reward: Draw three cards.</text>
+    </card>
+    <card>
+      <name>Al&apos;s Reward</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Trophy </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {U} or {R}.
+4UR, {T}, Sacrifice Al’s Reward: Draw three cards.</text>
+    </card>
+    <card>
+      <name>Cenari&apos;s Reward</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Trophy </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {B} or {G}.
+4BG, {T}, Sacrifice Cenari’s Reward: Draw three cards.</text>
+    </card>
+    <card>
+      <name>Api&apos;s Reward</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Trophy </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Api’s Reward is all colors.
+{T}: Add one mana of any color
+1WUBRG, {T}, Sacrifice Api’s Reward: Draw three cards.</text>
+    </card>
+    <card>
+      <name>Shifting Arena</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Shifting Arena gains the basic land type of your choice and loses all other types. (It gains {T}: Add {W}, {U}, {R}, {B}, or {G}).</text>
+    </card>
+    <card>
+      <name>Gift of Truth</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Clue </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, {T}: Add one mana of any color.
+{X}, {T}: Sacrifice Gift of Truth: Exile up to X target cards in any graveyard. If you exiled two cards with different types this way, draw a card.</text>
+    </card>
+    <card>
+      <name>Stack the Odds</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever Stack the Odds enters the battlefield, draw two cards, then discard a card.
+{1}, Sacrifice Stack the Odds: Choose one or six. Until end of turn, whenever a player rolls one or more dice, the result is equal to that number.</text>
+    </card>
+    <card>
+      <name>Ceremonial Opening</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>GU</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw a card.
+You may put a basic land card from your hand onto the battlefield.</text>
+    </card>
+    <card>
+      <name>Tarase&apos;s Disiciple</name>
+      <set rarity="common">HEX</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Demon Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Tarase’s Disiciple enters the battlefield, you gain 2 life.
+Whenever Tarase’s Disiciple dies, each opponent loses 2 life.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Chest of Desires HEX</name>
+      <set>HEX</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Trophy </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Pay one score counter: Untap Chest of Desires.
+{2}, {T}: Create a 2/2 colorless Spirit creature token.
+{4}, {T}: Search your library for a card, shuffle, then put that card on top of your library.</text>
+      <token>1</token>
+      <reverse-related>Peak Performer</reverse-related>
+      <reverse-related>Practice Drills</reverse-related>
+      <reverse-related>Soaring Striker</reverse-related>
+      <reverse-related>Competitor&apos;s Battleaxe</reverse-related>
+      <reverse-related>Ice Hockey Elemental</reverse-related>
+      <reverse-related>Champion Ringleader</reverse-related>
+      <reverse-related>Acewing Striker</reverse-related>
+      <reverse-related>Honey Comber</reverse-related>
+      <reverse-related>Rookie&apos;s Mentor</reverse-related>
+    </card>
+    <card>
+      <name>Sword of Victory HEX</name>
+      <set>HEX</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Trophy </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures you control get +1/+1.
+{T}: Add CC.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Sigil of Conquest HEX</name>
+      <set>HEX</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Trophy </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature you control deals combat damage to a player, draw a card.
+{T}: Tap target creature.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Spirit HEX</name>
+      <set>HEX</set>
+      <prop>
+        <colors></colors>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Chest of Desires</reverse-related>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
